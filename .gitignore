@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.vector_cache/
+*.pt
+.DS_Store
+
